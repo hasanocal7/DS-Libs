@@ -1,5 +1,5 @@
 # DS-Libs
-NumPy ✔
+NumPy ✔ \n
 Pandas
 MatPlotLib
 SeaBorn
