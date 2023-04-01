@@ -1,5 +1,5 @@
 # DS-Libs
 # NumPy ✔
-# Pandas
+# Pandas ✔
 # MatPlotLib
 # SeaBorn
